@@ -11,7 +11,7 @@ export default new Router({
     name: 'HelloWorld',
     component: HelloWorld,
     props: {
-      prop1: 'ルーターから指定!'
+      prop1: 'ルーターから指定'
     }
   }]
 })
